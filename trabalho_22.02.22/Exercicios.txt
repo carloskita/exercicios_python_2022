@@ -1,0 +1,11 @@
+Instruções
+Fazer o código em Python para resolver problemas abaixo.
+
+Elabore um programa que receba três números e imprima : a soma dos três; o quadrado do primeiro mais o dobro do segundo menos o terceiro elevado a 5
+
+Faca um programa em Python que receba a altura de uma pessoa  (em metros) sua massa (kg) e mostre o imc dessa pessoa. Sabendo que imc é a massa dividida pelo quadrado da altura.
+
+Elabore um programa que receba a temperatura em celsius e mostre a temperatura e Fahrenheit.
+
+
+Anexe seu codigo em arquivo .py ou txt
