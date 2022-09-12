@@ -1,0 +1,8 @@
+Escreva a respostas para os problemas abaixo utilizando Python. Sua resposta deve ser enviada em aquivo .txt ou .py, anexado aqui no nessa tarefa.
+
+1.Faça um programa que receba três valores e os imprima na tela em ordem decrescente depois em ordem crescente.
+
+2.Faça um programa que receba o dia e o mês e informe o próximo dia, por exemplo você recebeu dia 30 e mês 3, você imprimirá na tela 31.
+Um segundo exemplo: você recebeu valor d dia 30 e de mês 4, o próximo dia é 1, que seria 01/05.  (Ignore o fato de haver anos bissextos)
+
+3.Resolva o problema anterior considerando o fato de haver anos bissextos.
