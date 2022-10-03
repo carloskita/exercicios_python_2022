@@ -8,4 +8,3 @@ while cityPopsA < cityPopsB:
     yearsElapsed += 1
     
 print('Serao necessarios %d anos para a cidade A passar a cidade B em população' % (yearsElapsed))
-    
