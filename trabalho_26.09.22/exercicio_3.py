@@ -7,5 +7,5 @@ while cityPopsA < cityPopsB:
     cityPopsB += (cityPopsB * 0.02)
     yearsElapsed += 1
     
-print('Serao necessarios %d anos para a cidade A passar a cidade B em população', yearsElapsed)
+print('Serao necessarios %d anos para a cidade A passar a cidade B em população' % (yearsElapsed))
     
