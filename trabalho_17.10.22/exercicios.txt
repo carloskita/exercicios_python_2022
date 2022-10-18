@@ -1,0 +1,13 @@
+1. Escreva um programa que solicite ao usuário a digitação de um número até 99 e imprima-o na tela por extenso.
+
+
+2. Faça um programa em que troque todas as ocorrencias de uma letra L1 pela letra L2 em uma string. A string e as letras L1 e L2 devem ser fornecidas pelo usuario.
+
+
+3. O codigo de César é uma das mais simples e conhecidas técnicas de criptografia. É um tipo de substituição na qual cada letra do texto e substitui a saída por 
+outra, que se apresenta no alfabeto abaixo dela um numero fixo de vezes. Por exemplo, com uma troca de 
+três posicões, ‘A’ seria substituído por ‘D’, ‘B’ se tornaria ‘E’, e assim por diante. Implemente um programa que faça uso desse Codigo de 
+César (3 posicões), entre com uma string e retorne a string codificada. Exemplo:
+
+String: a ligeira raposa marrom saltou sobre o cachorro cansado
+Nova string: D OLJHLUD UDSRVD PDUURP VDOWRX VREUH R FDFKRUUR FDQVDGR
