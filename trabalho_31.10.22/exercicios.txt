@@ -1,0 +1,20 @@
+1. Faça um programa que leia um número indeterminado de notas. Após esta entrada de dados, faça o seguinte:
+• Mostre a quantidade de notas que foram lidas.
+• Exiba todas as notas na ordem em que foram
+informadas.
+• Exiba todas as notas na ordem inversa à que
+foram informadas, uma abaixo do outra.
+• Calcule e mostre a soma das notas.
+• Calcule e mostre a média das notas.
+• Calcule e mostre a quantidade de notas acima
+da média calculada.
+
+Dica: eleja algum critério de parada de leituras
+
+2. Ler uma lista de 5 números inteiros e mostre cada número juntamente com a sua posição na lista.
+
+3. Ler uma lista de 10 números reais e mostre-os na ordem inversa
+
+4.  Faça um programa para trabalhar com notas de alunos. você deve receber quantos alunos e quantas notas deverão ser registradas,
+ em seguida receber as notas dos alunos. No final, você deve mostrar se o aluno foi aprovado (média maior  ou igual a 6) ou reprovado,
+ caso média seja menor que 6. Aponte também qual foi a média da turma.
