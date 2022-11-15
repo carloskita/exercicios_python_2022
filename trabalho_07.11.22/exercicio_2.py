@@ -1,7 +1,7 @@
 def positiveOrNegative(num):
     defineSit = 'N'
     
-    if num >= 0:
+    if num > 0:
         return 'P'
         
     return defineSit
